@@ -1,5 +1,6 @@
 # Java Keyword & Modifier Reference (Tabel Perbandingan)
-
+HIRAUKAN NAMA PATH TERDAPAT KESALAHAN PUSH AND COMMIT 
+--> STRUKTUR CODE UNTUK PBD ADA DI FOLDER BASIS_DATA
 Panduan cepat untuk memahami keyword dan modifier penting di Java.
 
 | Keyword / Modifier      | Digunakan Untuk                                    | Contoh Penggunaan                                   | Catatan                                                                 |
